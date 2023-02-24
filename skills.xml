@@ -1,0 +1,15 @@
+<qa_skills>
+  <language_proficiency>
+    <language>English</language>
+    <level>Upper Intermediate</level>
+  </language_proficiency>
+  <testing_techniques>
+    <technique>Functional testing</technique>
+    <technique>Regression testing</technique>
+    <technique>Performance testing</technique>
+    <technique>Automated testing</technique>
+    <technique>Exploratory testing</technique>
+  </testing_techniques>
+  <qa_skills>
+
+

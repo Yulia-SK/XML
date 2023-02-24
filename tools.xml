@@ -1,0 +1,16 @@
+  <tools>
+    <tool>Selenium</tool>
+    <tool>Appium</tool>
+    <tool>JMeter</tool>
+    <tool>Postman</tool>
+    <tool>TestRail</tool>
+  </tools>
+  <methodologies>
+    <methodology>Agile</methodology>
+    <methodology>Scrum</methodology>
+    <methodology>Kanban</methodology>
+    <methodology>Waterfall</methodology>
+  </methodologies>
+  <tools>
+
+
