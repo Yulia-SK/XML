@@ -1,0 +1,43 @@
+<bug_reports>
+  <bug_report_1>
+    <title>Incorrect product price displayed</title>
+    <description>
+      The "Widget" product price displayed is incorrect. It shows as $19.99, but it should be $14.99.
+    </description>
+    <steps_to_reproduce>
+      <step>1. Go to the "Widget" product page</step>
+      <step>2. Observe the price displayed</step>
+    </steps_to_reproduce>
+    <expected_result>
+      The price displayed should be $14.99.
+    </expected_result>
+    <actual_result>
+      The price displayed is $19.99.
+    </actual_result>
+    <severity>High</severity>
+    <priority>High</priority>
+    <assigned_to>John Smith</assigned_to>
+  </bug_report_1>
+  
+  
+  <bug_report_2>
+    <title>Checkout page throws error when applying discount code</title>
+    <description>
+      A discount code on the checkout page is not applied.
+    </description>
+    <steps_to_reproduce>
+      <step>1. Add items to cart and proceed to checkout</step>
+      <step>2. Enter discount code "SALE20" and click "Apply"</step>
+    </steps_to_reproduce>
+    <expected_result>
+      The discount code should be applied and the total price should be reduced by 20%.
+    </expected_result>
+    <actual_result>
+      An error message is displayed and the discount is not applied.
+    </actual_result>
+    <severity>High</severity>
+    <priority>High</priority>
+    <assigned_to>Jane Doe</assigned_to>
+  </bug_report-2>
+</bug_reports>
+
