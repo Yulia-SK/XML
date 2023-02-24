@@ -1,0 +1,24 @@
+<person>
+  <name>Yulia</name>
+  <favorite_meal>
+    <name>Spaghetti Carbonara</name>
+  </favorite_meal>
+  <favorite_film>
+    <title>The Shawshank Redemption</title>
+    <director>Frank Darabont</director>
+    <year>1994</year>
+  </favorite_film>
+  <favorite_country>
+    <name>Japan</name>
+    <capital>Tokyo</capital>
+    <currency>Japanese yen</currency>
+  </favorite_country>
+  <favorite_book>
+    <title>To Kill a Mockingbird</title>
+    <author>Harper Lee</author>
+    <year>1960</year>
+  </favorite_book>
+  <hobby>Reading</hobby>
+</person>
+
+
